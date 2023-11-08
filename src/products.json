@@ -1,0 +1,99 @@
+[
+    {
+        "id" : 1,
+        "title" : "Bateria DW Collectors",
+        "category" : "Baterias",
+        "description" : "Bateria Completa 5 Cuerpos",
+        "precio" : 4500,
+        "colores" : ["Maple-Burst"],
+        "img1" : "./src/imgs/bate2.jpg"
+    },
+
+    {
+        "id" : 2,
+        "title" : "Bateria DW Collectors",
+        "category" : "Baterias",
+        "description" : "Bateria Completa 6 Cuerpos Full",
+        "precio" : 6500,
+        "colores" : ["roja"],
+        "img1" : "./src/imgs/bate1.webp"
+    },
+
+    {
+        "id" : 3,
+        "title" : "Bateria DW Collectors - 50 Anniversary",
+        "category" : "Baterias",
+        "description" : "Bateria Completa 6 Cuerpos, edicion 50 aniversario",
+        "precio" : 12000,
+        "colores" : ["Maple/Mahogany Burst"],
+        "img1" : "./src/imgs/bate3.jpg"
+    },
+
+    {
+        "id" : 4,
+        "title" : "Platillo Zildjian A",
+        "category" : "Platillos",
+        "description" : "Platillo Zildjian A, Fast Crash 14 inch",
+        "precio" : 450,
+        "img1" : "./src/imgs/c1.png"
+    },
+
+    {
+        "id" : 5,
+        "title" : "Platillo Zildjian A",
+        "category" : "Platillos",
+        "description" : "Platillo Zildjian A, Sweet Ride 23 inch",
+        "precio" : 750,
+        "img1" : "./src/imgs/c2.png"
+    },
+
+    {
+        "id" : 6,
+        "title" : "Platillo Zildjian A",
+        "category" : "Platillos",
+        "description" : "Platillo Zildjian A, Heavy Crash 16 inch",
+        "precio" : 550,
+        "img1" : "./src/imgs/c3.png"
+    },
+
+    {
+        "id" : 7,
+        "title" : "Redoblante DW",
+        "category" : "Redoblantes",
+        "description" : "Redoblante DW black nickel",
+        "precio" : 700,
+        "colores" : ["negro"],
+        "img1" : "./src/imgs/s1.jpg"
+    },
+
+    {
+        "id" : 8,
+        "title" : "Redoblante DW",
+        "category" : "Redoblantes",
+        "description" : "Redoblante DW black nickel + Gold Hard",
+        "precio" : 950,
+        "colores" : ["negro"],
+        "img1" : "./src/imgs/s2.jpg"
+    },
+
+    {
+        "id" : 9,
+        "title" : "Redoblante DW",
+        "category" : "Redoblantes",
+        "description" : "Redoblante DW Aluminio",
+        "precio" : 850,
+        "colores" : ["negro"],
+        "img1" : "./src/imgs/s3.jpg"
+    },
+    
+    {
+        "id" : 10,
+        "title" : "Redoblante DW",
+        "category" : "Redoblantes",
+        "description" : "Redoblante DW Aluminio",
+        "precio" : 1100,
+        "colores" : ["negro"],
+        "img1" : "./src/imgs/s4.jpg"
+    }
+
+]
