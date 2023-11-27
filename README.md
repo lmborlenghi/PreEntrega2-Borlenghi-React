@@ -1,1 +1,1 @@
-PreEntrega#2 | Luciano Borlenghi | REACT -test
+PreEntrega#2 | Luciano Borlenghi | REACT
